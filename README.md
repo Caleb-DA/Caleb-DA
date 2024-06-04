@@ -5,5 +5,3 @@
 - 📫 How to reach me N/A
 - 😄 Pronouns: Mister
 - ⚡ Fun fact: The Universe has evolved into something from nothing, and Time never stops.
-
-
