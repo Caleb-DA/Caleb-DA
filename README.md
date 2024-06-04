@@ -1,3 +1,4 @@
+![image](/assets/images/your-image.jpg)
 - 👋 Hi, I’m @Caleb-DA
 - 👀 I’m interested in Data Science and Web Design
 - 🌱 I’m currently learning Full Stack Java Script and  Python Machine Learning
