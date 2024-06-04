@@ -1,4 +1,4 @@
-Logo 2.jpg
+<img src={Logo 2.jpg} />
 - 👋 Hi, I’m @Caleb-DA
 - 👀 I’m interested in Data Science and Web Design
 - 🌱 I’m currently learning Full Stack Java Script and  Python Machine Learning
