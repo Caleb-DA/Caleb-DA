@@ -1,4 +1,4 @@
-<img src="[img_girl.jpg](https://drive.google.com/drive/folders/1NnrjphMicLU2bM9eGEEK5WIf0i6dRJ3n)" alt="robot" style="width:500px;height:600px;"> 
+![Homepage 2](https://github.com/Caleb-DA/Caleb-DA/assets/162135611/656359b5-e273-48df-93a3-d24b0c61ba4f)
 
 - 👋 Hi, I’m @Caleb-DA
 - 👀 I’m interested in Data Science and Web Design
