@@ -1,4 +1,5 @@
-![Homepage 2](https://github.com/Caleb-DA/Caleb-DA/assets/162135611/656359b5-e273-48df-93a3-d24b0c61ba4f)
+
+![Homepage 3](https://github.com/Caleb-DA/Caleb-DA/assets/162135611/2b4ec57f-e556-461b-bdd1-d3c8308d9cf4)
 
 - 👋 Hi, I’m @Caleb-DA
 - 👀 I’m interested in Data Science and Web Design
